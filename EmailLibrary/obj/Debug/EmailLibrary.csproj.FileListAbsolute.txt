@@ -1,0 +1,6 @@
+C:\Users\Dominic Lanza\Source\Repos\Project3EmailManagementSystem\EmailLibrary\bin\Debug\EmailLibrary.dll
+C:\Users\Dominic Lanza\Source\Repos\Project3EmailManagementSystem\EmailLibrary\bin\Debug\EmailLibrary.pdb
+C:\Users\Dominic Lanza\Source\Repos\Project3EmailManagementSystem\EmailLibrary\obj\Debug\EmailLibrary.csprojAssemblyReference.cache
+C:\Users\Dominic Lanza\Source\Repos\Project3EmailManagementSystem\EmailLibrary\obj\Debug\EmailLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Lanza\Source\Repos\Project3EmailManagementSystem\EmailLibrary\obj\Debug\EmailLibrary.dll
+C:\Users\Dominic Lanza\Source\Repos\Project3EmailManagementSystem\EmailLibrary\obj\Debug\EmailLibrary.pdb
